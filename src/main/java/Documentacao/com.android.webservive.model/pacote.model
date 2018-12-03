@@ -1,6 +1,6 @@
 A Pocote "model" é o pacote onde vai implementado todo espelhamento 
 das entidades do banco de dados pode ser ou não uma tabela no banco
 representa um objeto para manipular em todo o sistemas na implementação
-paadrão colocase todos os atributos como privado seus respectivos gets e sets,
+paadrão coloca se todos os atributos como privado seus respectivos gets e sets,
 além de dois construtores um vazio e outro com todos os atributos exeto coleções,
 os metodos equals e hashCode padrão do sistema porem o hash vai somente o id.
